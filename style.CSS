@@ -1,21 +1,115 @@
-<!DOCTYPE html> 
+ 
 
-<html lang="en"> 
+/* Global Styles */ 
 
-<head> 
+body { 
 
-    <meta charset="UTF-8"> 
+    font-family: Arial, sans-serif; 
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    margin: 0; 
 
-    <title></title> 
+    padding: 0; 
 
-</head> 
+    background-color: #f9f9f9; 
 
-<body> 
+    color: #333; 
 
-    <!-- Your content will go here --> 
+} 
 
-</body> 
+ 
 
-</html> 
+/* Navigation */ 
+
+nav { 
+
+    background-color:#0D9488; 
+
+    padding: 15px; 
+
+    text-align: center; 
+
+} 
+
+ 
+
+nav a { 
+
+    color: white; 
+
+    text-decoration: none; 
+
+    margin: 0 15px; 
+
+} 
+
+ 
+
+nav a:hover { 
+
+    text-decoration: underline; 
+
+} 
+
+ 
+
+/* Headers */ 
+
+header { 
+
+    background-color: navy; 
+
+    color: white; 
+
+    padding: 30px; 
+
+    text-align: center; 
+
+} 
+
+ 
+
+/* Main Content */ 
+
+main { 
+
+    padding: 20px; 
+
+    max-width: 800px; 
+
+    margin: 0 auto; 
+
+} 
+
+ 
+
+/* Footer */ 
+
+footer { 
+
+    background-color:  #1F2937; 
+
+    color: white; 
+
+    text-align: center; 
+
+    padding: 15px; 
+
+    margin-top: 30px; 
+
+} 
+
+ 
+
+/* Images */ 
+
+img { 
+
+    border-radius: 10px; 
+
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+
+} 
+
+ 
+
+ 
